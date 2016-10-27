@@ -1,0 +1,10 @@
+//define MACRO//
+#define WINDOW_WIDTH 800
+#define WINDOW_HEIGHT 600
+#define WINDOW_CAPTION "Pong"
+
+#define PADDLE_BITMAP_X 0
+#define PADDLE_BITMAP_Y 0
+#define BALL_BITMAP_X 100
+#define BALL_BITMAP_Y 0
+
